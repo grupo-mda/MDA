@@ -8,4 +8,4 @@ Colaboradores:
 - Daniel Moreno García.
 - Adrián Negrín Martín.
 - Javier.
-- Zixiong.
+- Zixiong Lin.

@@ -1,6 +1,6 @@
 # Proyecto de MDA
 
-Este repositorio contendrá el código creado para el proyecto de MDA
+Este repositorio el código creado para el proyecto de MDA
 
 Colaboradores:
 
@@ -8,4 +8,4 @@ Colaboradores:
 - Daniel Moreno García.
 - Adrián Negrín Martín.
 - Javier.
-- Zixiong Lin.
+- Zixiong Lin Yang.

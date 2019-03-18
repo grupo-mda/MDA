@@ -1,6 +1,6 @@
 # Proyecto de MDA
 
-Este repositorio el código creado para el proyecto de MDA
+Este repositorio contendrá el código creado para el proyecto de MDA
 
 Colaboradores:
 
